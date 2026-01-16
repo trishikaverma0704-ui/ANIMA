@@ -4,7 +4,7 @@
 Pet parents lack a single trusted platform for community help, local alerts, and emergencies.
 
 ## Solution
-PawTown is a digital town square where pet parents connect through community feeds,
+ANIMAis a digital town square where pet parents connect through community feeds,
 neighbourhood circles, and an AI agent that provides guidance and emergency support.
 
 ## Core Features
