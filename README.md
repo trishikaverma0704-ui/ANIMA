@@ -1,4 +1,4 @@
-# 🐾 PawTown — A Digital Town Square for Pet Parents
+# 🐾 ANIMA— A Digital Town Square for Pet Parents
 
 ## Problem
 Pet parents lack a single trusted platform for community help, local alerts, and emergencies.
