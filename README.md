@@ -16,10 +16,7 @@ neighbourhood circles, and an AI agent that provides guidance and emergency supp
 - Rescue & NGO Connect (future scope)
 
 ## AI Agent
-The AI agent acts as a first responder by:
-- Classifying urgency of posts
-- Asking follow-up questions
-- Providing safe, non-diagnostic guidance
+-future development
 
 
 ## How It Works
@@ -34,3 +31,4 @@ The AI agent acts as a first responder by:
 
 ## Team
 - Trishika Verma
+-Idika Singh
